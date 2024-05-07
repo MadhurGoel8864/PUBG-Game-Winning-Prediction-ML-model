@@ -24,4 +24,4 @@ This project utilizes machine learning and data analysis techniques to analyze g
 These metrics indicate that the model is approximately 92-93% accurate in predicting the winner of the game based on the provided dataset.
 
 ## Contribution
-Contributions are welcome! If you find any bugs or have s
+Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
